@@ -41,7 +41,7 @@ The dataset encompasses domestic flight records in the U.S. from 2016 to 2019, d
 
 
 ## 🧰 Technologies Used
-Python** : 3.12.3
+- **Python** : 3.12.3
 
 - **Pandas** : Data manipulation and analysis.
 
