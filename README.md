@@ -24,7 +24,7 @@ This project focuses on the analysis of time series data based on domestic air p
 
 
 ## 📊 Dataset Description
-The dataset encompasses domestic flight records in the U.S. from 2016 to 2019, detailing:
+The dataset encompasses local flight records in the U.S. from 2016 to 2019, detailing:
 
 - **origin**: Departure airport code (e.g., "JFK").
 
